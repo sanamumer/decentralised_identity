@@ -1,0 +1,9 @@
+{
+  "sandboxId": "bitter-nebula-6675d515",
+  "chainId": 14746,
+  "rpcUrl": "https://rpc.buildbear.io/bitter-nebula-6675d515",
+  "faucetUrl": "https://faucet.buildbear.io/bitter-nebula-6675d515",
+  "explorerUrl": "https://explorer.buildbear.io/bitter-nebula-6675d515",
+  "verificationUrl": "https://api.buildbear.io/v1/api/verify/etherscan/bitter-nebula-6675d515",
+  "forkingChainId": 1
+}
